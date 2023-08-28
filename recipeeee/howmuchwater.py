@@ -27,7 +27,7 @@ while True:
             print(f"you said {howmuch} this is wrong! you are making soup! stop right now and call bebe~!")
 
         if howmuch == 1:
-            print("well done my booby love! you will get kith! ／(^ ㅅ ^)＼")
+            print("well done my love! you will get kith! ／(^ ㅅ ^)＼")
 
         if howmuch < 1:
             print("oh no! it's burning! add water!")
